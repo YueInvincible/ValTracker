@@ -1,4 +1,3 @@
-Tracking valorant's player performance from the party screen (manually) since valtracker not allowing that so that I CAN NOT DODGE THESE BULLSHITSTUPIDASS PLAYERS!
 --------------------------------------------------------------------
 # Yue's ValTracker
 
@@ -54,5 +53,5 @@ A lightweight, high-performance **Valorant Overlay** tool built for players who 
 
 ---
 *Created for personal use. Use responsibly.*
-
+Tracking valorant's player performance from the party screen (manually) since valtracker not allowing that so that I CAN NOT DODGE THESE BULLSHITSTUPIDASS PLAYERS!
 ---
